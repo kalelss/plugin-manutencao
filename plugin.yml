@@ -1,0 +1,8 @@
+name: K-Manutencao
+author: _KaL_eL
+version: 2.5
+main: me.DevKaL.kmanutencao.main.Main
+commands:
+   manutencao:
+      aliases: manu
+      description: Para bloquear entradas no servidor enquanto estiver em manutenção.     
