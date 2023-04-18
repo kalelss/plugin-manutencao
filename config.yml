@@ -1,0 +1,34 @@
+ #========================#
+ #                        #
+ # Autor: _KaL_eL         #
+ # Versao: 1.0            #
+ # DC: _KaL_eL#8094       #
+ #                        #
+ #========================#
+
+#Esta opcao sera alterada automaticamente, toda vez que os 
+#comandos de manutencao forem executados.
+Manutencao:
+ Situacao: false
+
+#Essa mensagem sera mostrada sempre que a manutencao estiver ligada.
+#Use %linha% para ter uma quebra de linha.
+Mensagem: 
+ Login: '&2&lEntrada nao autorizada, servidor em manutencao.%linha%Retornaremos em breve!'
+ Kick: '&2&lManutencao iniciada.%linha%Aguarde!'
+ Entrada: '&eEntrada autorizada!'
+ 
+AvisoManutencao:
+ Fadein: 2 
+ Stay: 5
+ Fadeout: 2
+
+Manutencao-MOTD: 
+ Linha-1: '&c&l&m-----------[&r&4&lEM MANUTENCAO&c&l&m]-----------'
+ Linha-2: '&e&lDuvidas &fdiscord.com/servidor'
+ Max-Players: 0
+ 
+Server-MOTD:
+ Linha-1: '&e&l&m-----------[&r&6&lSEU SERVIDOR&e&l&m]-----------'
+ Linha-2: '&e&lOutras informacoes!'
+ Max-Players: 40
