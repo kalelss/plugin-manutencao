@@ -28,7 +28,8 @@ public class Main extends JavaPlugin{
 		getServer().getConsoleSender().sendMessage("§a[K-Manutencao] ============================");
 		getServer().getConsoleSender().sendMessage("§a[K-Manutencao] Iniciado com sucesso!");
 	    getServer().getConsoleSender().sendMessage("§a[K-Manutencao] Versao: " + getDescription().getVersion());
-	    getServer().getConsoleSender().sendMessage("§a[K-Manutencao] Autor: " + getDescription().getAuthors());		
+	    getServer().getConsoleSender().sendMessage("§a[K-Manutencao] Autor: " + getDescription().getAuthors());
+	    getServer().getConsoleSender().sendMessage("§a[K-Manutencao] Iniciado com sucesso!");
 		getServer().getConsoleSender().sendMessage("§a[K-Manutencao] ============================");
 	}	
 	
